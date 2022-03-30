@@ -1,7 +1,7 @@
 # FingerTracking
 
 
- ##Virtual env 셋팅
+ ## Virtual env 셋팅
 
 ```shell
  521 python3 -m venv --system-site-package ./venv
